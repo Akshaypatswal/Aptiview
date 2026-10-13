@@ -178,5 +178,3 @@ For issues and questions:
 - Advanced AI interview customization
 
 ---
-
-Built with ❤️ by the Aptiview team
